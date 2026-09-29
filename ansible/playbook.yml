@@ -1,2 +1,3 @@
 ---
 - name: Setup Server
+  hosts: all
